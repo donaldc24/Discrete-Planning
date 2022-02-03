@@ -1,0 +1,6 @@
+Step 1: I imported json and from queue import PriorityQueue
+Step 2: In terminal type python project1.python and click enter
+Step 3: Then on blank line type input file name (ex. project1_desc.json if its in same directory) and then click enter
+Step 4: Next it wills say "--alg " which then you will type bfs, dfs, or astar depending on the algo you want and then click enter
+Step 5: After that it will say "--out " in which you will then type what you want the name of output file to be (ex. project1_bfs.json) then click enter
+Step 6: The file with the name you typed should show up in same directory and you can view the results!
